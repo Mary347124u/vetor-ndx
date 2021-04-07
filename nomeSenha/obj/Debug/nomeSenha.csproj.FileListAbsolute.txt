@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\obj\Debug\nomeSenha.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\obj\Debug\nomeSenha.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\obj\Debug\nomeSenha.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\bin\Debug\nomeSenha.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\bin\Debug\nomeSenha.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\bin\Debug\nomeSenha.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\obj\Debug\nomeSenha.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\nomeSenha\nomeSenha\obj\Debug\nomeSenha.pdb
